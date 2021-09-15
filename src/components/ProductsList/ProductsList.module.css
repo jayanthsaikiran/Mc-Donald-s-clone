@@ -1,0 +1,22 @@
+.container {
+    margin-top: 15px;
+    height: 500px;
+    width: 750px;
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #C0C0C0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

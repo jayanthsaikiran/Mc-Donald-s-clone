@@ -1,0 +1,69 @@
+.cart {
+    position: sticky;
+    margin: 150px 0px 0px 20px;
+    float: right;
+}
+
+.bottom {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.viewCart {
+    width: 141px;
+    border: none;
+    font-weight: 600;
+    color: #000;
+    font-size: 16px;
+    background: #FFBC0F;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.viewCart:hover {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.price {
+    width: 141px;
+    border: none;
+    font-weight: 600;
+    color: #000;
+    font-size: 16px;
+    background: #fff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.orderSummary {
+    padding: 20px 30px 20px 30px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+/* Unvisited link  */
+
+a:visited {
+    color: white;
+}
+
+/* Visited link    */
+
+a:hover {
+    color: white;
+}
+
+/* Mouse over link */
+
+a:active {
+    color: white;
+}

@@ -1,0 +1,32 @@
+.parent {
+    padding: 0px 16px 0px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.parent p {
+    margin-bottom: 0px;
+}
+
+.prices {
+    display: flex;
+    justify-content: space-between;
+}
+
+.prices p:hover {
+    cursor: pointer;
+}
+
+.addOnPrice {
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-width: 75px;
+    font-size: 14px;
+    padding: 5px;
+    margin: 0px 8px 0px 10px;
+}

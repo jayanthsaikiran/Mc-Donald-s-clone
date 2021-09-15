@@ -1,0 +1,14 @@
+body {
+    background-color: #F8F8FA;
+}
+
+.container {
+    text-align: left;
+    margin: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 12px;
+}
