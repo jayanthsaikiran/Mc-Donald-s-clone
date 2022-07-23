@@ -1,6 +1,6 @@
 .container {
     margin-top: 15px;
-    height: 500px;
+    height: 100%;
     width: 750px;
     overflow-y: scroll;
 }
