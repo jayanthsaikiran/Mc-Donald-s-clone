@@ -1,4 +1,5 @@
 .mainbody {
     display: flex;
+    height: 80vh;
     /* justify-content: space-between; */
   }
