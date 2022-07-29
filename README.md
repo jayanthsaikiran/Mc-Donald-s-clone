@@ -2,6 +2,10 @@
 
 This is a sample project which is used to test the basic redux (State management).
 
+## Project Demo:
+
+https://user-images.githubusercontent.com/46348137/181766762-192f4ef2-e099-499b-a6ec-eb3ad48f5fbd.mp4
+
 ## Project Screen Shot(s)
 
 Home Screen :
