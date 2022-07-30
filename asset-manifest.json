@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mc-Donald-s-clone/static/css/main.f3759c06.chunk.css",
+    "main.css": "/Mc-Donald-s-clone/static/css/main.3a8f669c.chunk.css",
     "main.js": "/Mc-Donald-s-clone/static/js/main.11eec4d3.chunk.js",
     "main.js.map": "/Mc-Donald-s-clone/static/js/main.11eec4d3.chunk.js.map",
     "runtime-main.js": "/Mc-Donald-s-clone/static/js/runtime-main.4e0e1c29.js",
@@ -12,14 +12,14 @@
     "static/js/3.8b449a8c.chunk.js.map": "/Mc-Donald-s-clone/static/js/3.8b449a8c.chunk.js.map",
     "index.html": "/Mc-Donald-s-clone/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/Mc-Donald-s-clone/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.f3759c06.chunk.css.map": "/Mc-Donald-s-clone/static/css/main.f3759c06.chunk.css.map",
+    "static/css/main.3a8f669c.chunk.css.map": "/Mc-Donald-s-clone/static/css/main.3a8f669c.chunk.css.map",
     "static/js/2.48be49ba.chunk.js.LICENSE.txt": "/Mc-Donald-s-clone/static/js/2.48be49ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e0e1c29.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.48be49ba.chunk.js",
-    "static/css/main.f3759c06.chunk.css",
+    "static/css/main.3a8f669c.chunk.css",
     "static/js/main.11eec4d3.chunk.js"
   ]
 }
