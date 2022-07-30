@@ -33,7 +33,8 @@ a {
 .mainnav {
     text-decoration: none;
     color: #fff;
-    margin-top: 5px;
+    display: flex;
+    align-items: center;
 }
 
 .mainnav a {
