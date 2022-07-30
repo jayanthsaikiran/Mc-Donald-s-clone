@@ -42,6 +42,7 @@ a {
     padding: 10px 15px;
     text-align: center;
     display: block;
+    height: fit-content;
 }
 
 .mainnav a {

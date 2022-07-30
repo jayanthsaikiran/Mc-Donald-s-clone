@@ -8,6 +8,8 @@ import { useSelector } from 'react-redux'
 
 const Product = (props) => {
 
+    const siteURL = "https://jayanthsaikiran.github.io/Mc-Donald-s-clone/"
+
     const check = useSelector(state => {
         let length = false;
         state.products.forEach(obj => {
@@ -54,7 +56,7 @@ const Product = (props) => {
             </Modal>
             <div className={styles.image}>
                 <img alt="burger"
-                    src={"/images/" + props.details.image}
+                    src={siteURL + "/images/" + props.details.image}
                     height="100" width="100"
                     onClick={openImageModal} />
             </div>

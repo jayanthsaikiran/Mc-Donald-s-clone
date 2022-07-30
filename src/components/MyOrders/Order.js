@@ -2,6 +2,7 @@ import React from 'react'
 import styles from './Order.module.css'
 
 const Order = (props) => {
+    const siteURL = "https://jayanthsaikiran.github.io/Mc-Donald-s-clone/"
     let sumTotal = 0;
     return (
         <div className={styles.container}>
@@ -11,7 +12,7 @@ const Order = (props) => {
             </div>
             <hr style={{ margin: "0px 15px 10px 15px" }} />
             <div className={styles.itemContainer}>
-                <img alt="order" src="/images/fries_m.png" width="100px" height="30px" />
+                <img alt="order" src={siteURL+"/images/fries_m.png"} width="100px" height="30px" />
                 <div className={styles.items}>
                     <p><strong>Your custom order</strong></p>
                     <ul>
