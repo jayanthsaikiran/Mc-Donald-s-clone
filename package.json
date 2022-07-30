@@ -2,7 +2,7 @@
   "name": "mcdonalds",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://McDonaldsClone.github.io/",
+  "homepage": "https://jayanthsaikiran.github.io/Mc-Donald-s-clone/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
