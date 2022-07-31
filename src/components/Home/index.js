@@ -1,8 +1,8 @@
 import React from 'react'
 import styles from './Home.module.css'
-import Filter from '../Filter/Filter'
-import ProductsList from '../ProductsList/ProductsList'
-import Cart from '../Cart/cart'
+import Filter from '../Filter'
+import ProductsList from '../ProductsList'
+import Cart from '../Cart'
 
 const Home = () => {
     return (

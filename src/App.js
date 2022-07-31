@@ -1,9 +1,9 @@
 import React from 'react'
 import { HashRouter, Switch, Route } from 'react-router-dom'
-import Header from './components/Header/Header'
-import Home from './components/Home/Home'
-import ViewCart from './components/ViewCart/ViewCart'
-import MyOrders from './components/MyOrders/MyOrders'
+import Header from './components/Header'
+import Home from './components/Home'
+import ViewCart from './components/ViewCart'
+import MyOrders from './components/MyOrders'
 
 import './App.css';
 

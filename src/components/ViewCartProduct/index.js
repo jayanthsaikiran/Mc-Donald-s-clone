@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import styles from './ViewCartProduct.module.css'
-import Modal from '../Modal/Modal'
-import AddOns from '../AddOns/AddOns'
-import CartQuantity from '../CartQuantity/CartQuantity'
+import Modal from '../Modal'
+import AddOns from '../AddOns'
+import CartQuantity from '../CartQuantity'
 
 const ViewCartProduct = (props) => {
 
