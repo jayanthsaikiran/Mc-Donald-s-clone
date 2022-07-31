@@ -58,7 +58,7 @@ const ViewCart = () => {
         setTimeout(() => {
             console.log('reached time out')
             history.push('/myOrders')
-        }, 3000)
+        }, 3000);
     }
 
     return (

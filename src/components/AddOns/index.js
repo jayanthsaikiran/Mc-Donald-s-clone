@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './AddOns.module.css'
 import AddOn from './AddOn'
 import { useSelector } from 'react-redux'
-import products from '../../store/data/Products'
+import products from '../../store/data/Products.json'
 const AddOns = (props) => {
 
     let productPrice = 0;

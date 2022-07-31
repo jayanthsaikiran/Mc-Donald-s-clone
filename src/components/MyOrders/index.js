@@ -24,7 +24,7 @@ const MyOrders = () => {
                 setOrdersData(arr => [...arr, temp])
             })
         })
-    }, [])
+    }, [orders])
 
     return (
         <div className={styles.container}>
